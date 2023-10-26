@@ -1,6 +1,7 @@
 # DevOps-Project-CICD--1
 Deploy application on tomcat server and on docker container
 
+
 Console output when deploy application on tomcat server
 ![console output tomcat manual](https://github.com/rohanpundhir/DevOps-Project-CICD--1/assets/145056073/db5850b1-edc3-4fe2-884e-502a02b91640)
 
